@@ -6,12 +6,14 @@
 
 <img align="right" width="200px" src="/assets/Ilustração - PessoaFoneOculosRosa.png">
 
- Olá, meu nome é Luiz Eduardo, mas pode me chamar de Dudu. Sou estudante de Engenharia de Software e um entusiasta do desenvolvimento mobile. Minha paixão por tecnologia se estende ao mundo do Linux, sistema que admiro pela sua flexibilidade e robustez. Além de me dedicar aos estudos e projetos desafiadores, também compartilho minha jornada de desenvolvimento no TikTok, criando conteúdo que inspira e educa outros desenvolvedores. A cada novo projeto, busco não apenas aprimorar minhas habilidades técnicas, mas também contribuir para a comunidade de tecnologia.
+Olá, sou Eduardo, estudante de Engenharia de Software com foco em desenvolvimento mobile e entusiasta do Linux.
+Atualmente, estou aprofundando meus conhecimentos em React Native e Next.js, buscando sempre aprimorar minhas habilidades técnicas.
+Além de me dedicar aos estudos e projetos desafiadores, compartilho minha jornada de desenvolvimento no TikTok, criando conteúdo que inspira e educa outros desenvolvedores.
+Sou apaixonado por **música**, **café** e **Linux**, e estou sempre em busca de novas oportunidades para aprender e contribuir para a comunidade de tecnologia.
 </br>
 </br>
 
 - 📧 Como entrar em contato comigo: <luizedu@alu.ufc.br>
-- 💡 Curiosidade: Sou apaixonada por Musica, Café e Linux.
 
 </br>
 
@@ -23,8 +25,9 @@
   <img  alt="Luiz-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img  alt="Luiz-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img  alt="Luiz-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
-  <img  alt="Luiz-Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
   <img  alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img  alt="Luiz-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
+  <img  alt="Luiz-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
   <img  alt="Luiz-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   </div>
   
@@ -54,23 +57,26 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luiz-Eduardo-BL&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eduardo-Lima-Dev&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <a href="http://github.com/luiz-eduardo-bl">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luiz-eduardo-bl&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&border_radius=10px"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-eduardo-bl&hide=python&layout=compact&langs_count=8&theme=discord_old_blurple&border_radius=10px"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduardo-lima-dev&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&border_radius=10px"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-lima-dev&hide=python&layout=compact&langs_count=8&theme=discord_old_blurple&border_radius=10px"/>
 </div>
 
 # 📌 Projetos em Destaque
 
-### [QuixHouse](https://github.com/Luiz-Eduardo-BL/QuixHouse)
+### [Meu Racha](https://github.com/Eduardo-Lima-Dev/Meu_Racha)
+Um sistema cujo objetivo principal é facilitar o nivelamento dos jogadores de um racha de futebol, permitindo que todos os participantes avaliem uns aos outros em uma escala de 1 a 5 estrelas. Essas avaliações ocorrem em períodos específicos, controlados pelos administradores da plataforma.
+
+### [QuixHouse](https://github.com/Eduardo-Lima-Dev/QuixHouse)
 Uma solução para estudantes em Quixadá, o QuixHouse facilita a busca e oferta de acomodações, conectando a comunidade estudantil com opções de moradia confortáveis e acessíveis.
 
-### [Eficiência Energética](https://github.com/Luiz-Eduardo-BL/Projeto-de-Eficiencia-Energetica)
+### [Eficiência Energética](https://github.com/Eduardo-Lima-Dev/Projeto-de-Eficiencia-Energetica)
 Desenvolvido para a Justiça Federal, este projeto visa promover a sustentabilidade através da análise e melhoria da eficiência energética em edifícios, contribuindo para um futuro mais verde.
 
-### [Todo Task](https://github.com/Luiz-Eduardo-BL/Todo-Tasks)
+### [Todo Task](https://github.com/Eduardo-Lima-Dev/Todo-Tasks)
 Mantenha suas tarefas organizadas com Todo-task, uma aplicação intuitiva que oferece uma gestão de tarefas simplificada, ajudando a aumentar sua produtividade diária.
 
 ### [RediUX](https://github.com/RediUX/RediUX_)
